@@ -1,8 +1,9 @@
-# =========================
+# =====================================
 # Python
-# =========================
-venv/
+# =====================================
+backend/venv/
 .venv/
+venv/
 env/
 ENV/
 
@@ -10,65 +11,87 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Environment Variables
-.env
-.env.*
-
-# Logs
-*.log
-
 # Python Build
 build/
 dist/
 *.egg-info/
+.eggs/
+pip-wheel-metadata/
 
-# =========================
-# Vector Database
-# =========================
-backend/data/chroma_db/
-backend/data/vector_store/
-
-# Uploaded Files
-backend/data/uploads/
-
-# Generated Reports
-backend/output/
-
-# =========================
-# Frontend
-# =========================
-frontend/node_modules/
-frontend/dist/
-frontend/build/
-
-# Vite
-frontend/.vite/
-
-# =========================
-# IDE
-# =========================
-.vscode/
-.idea/
-
-# =========================
-# macOS
-# =========================
-.DS_Store
-
-# =========================
 # Testing
-# =========================
 .pytest_cache/
 .coverage
 htmlcov/
+.mypy_cache/
+.ruff_cache/
 
-# =========================
+# =====================================
+# Environment Variables
+# =====================================
+.env
+.env.*
+!.env.example
+
+# =====================================
+# Vector Database & Generated Data
+# =====================================
+backend/data/chroma_db/
+backend/data/vector_store/
+backend/data/uploads/
+backend/output/
+
+# =====================================
+# Frontend (React / Vite)
+# =====================================
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.vite/
+
+# =====================================
+# Logs
+# =====================================
+*.log
+logs/
+
+# =====================================
+# IDEs
+# =====================================
+.vscode/
+.idea/
+
+# =====================================
+# macOS
+# =====================================
+.DS_Store
+
+# =====================================
 # Jupyter
-# =========================
+# =====================================
 .ipynb_checkpoints/
 
-# =========================
+# =====================================
 # Temporary Files
-# =========================
+# =====================================
 *.tmp
 *.temp
+*.bak
+*.swp
+*.swo
+
+# =====================================
+# OS Files
+# =====================================
+Thumbs.db
+
+# =====================================
+# Documentation Build
+# =====================================
+site/
+
+# =====================================
+# Local Databases
+# =====================================
+*.db
+*.sqlite
+*.sqlite3

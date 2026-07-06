@@ -21,7 +21,7 @@ class DocumentLoader:
         Returns:
             List[Document]: List of LangChain Document objects.
         """
-        documents = []
+        documents: List[Document] = []
 
         markdown_files = self.knowledge_base_path.glob("*.md")
 

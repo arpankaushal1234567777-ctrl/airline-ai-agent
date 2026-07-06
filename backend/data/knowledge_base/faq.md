@@ -231,6 +231,258 @@ Passengers can access the Manage Booking section on the Emirates website or mobi
 
 ---
 
+---
+
+# Additional Frequently Asked Questions
+
+## Cabin Baggage & Personal Items
+
+### Can I carry my laptop in cabin baggage?
+
+Yes. Personal electronic devices such as laptops are generally permitted in cabin baggage. Security officers may require laptops to be removed separately during security screening.
+
+---
+
+### Can I take my MacBook on the flight?
+
+Yes. MacBooks and other laptops may generally be carried in cabin baggage as personal electronic devices.
+
+---
+
+### Can I carry my office laptop?
+
+Yes. Work laptops are generally permitted in cabin baggage.
+
+---
+
+### Can I bring my tablet or iPad?
+
+Yes. Tablets and similar electronic devices may be carried in cabin baggage.
+
+---
+
+### Can I carry my DSLR or professional camera?
+
+Yes. Cameras and photography equipment are generally allowed in cabin baggage, provided they comply with baggage size and weight limits.
+
+---
+
+### Can I carry mobile phone chargers?
+
+Yes. Chargers, charging cables, adapters, and similar electronic accessories are generally permitted in cabin baggage.
+
+---
+
+### Can I bring headphones or gaming devices?
+
+Yes. Personal entertainment devices such as headphones, gaming consoles, and e-readers are generally allowed.
+
+---
+
+## Batteries & Electronics
+
+### Can I carry a power bank?
+
+Yes. Power banks containing lithium batteries should generally be carried in cabin baggage and should not be packed inside checked baggage.
+
+---
+
+### Can I carry spare batteries?
+
+Spare lithium batteries should normally remain in cabin baggage according to airline safety regulations.
+
+---
+
+### Can I charge my phone during the flight?
+
+Many Emirates aircraft provide USB charging ports or power outlets, depending on the aircraft type and route.
+
+---
+
+## Liquids
+
+### Can I carry liquids in hand baggage?
+
+Yes. Liquids may be carried in cabin baggage, subject to airport security regulations regarding container size and screening requirements.
+
+---
+
+### Can I carry perfume?
+
+Yes. Perfume is generally permitted provided it complies with airport security regulations.
+
+---
+
+### Can I carry cosmetics or makeup?
+
+Yes. Cosmetics are generally allowed, subject to security screening requirements.
+
+---
+
+### Can I carry toothpaste?
+
+Yes. Toothpaste may generally be carried in cabin baggage, subject to airport liquid restrictions.
+
+---
+
+## Medicines
+
+### Can I carry medicines in cabin baggage?
+
+Yes. Personal medicines are generally permitted during travel.
+
+---
+
+### Can I carry insulin?
+
+Yes. Passengers travelling with insulin or other essential medication should keep them accessible during the journey and carry supporting medical documentation if required.
+
+---
+
+### Can I carry medical equipment?
+
+Medical equipment may generally be accepted depending on its type and applicable airline policies.
+
+---
+
+## Food
+
+### Can I carry food in cabin baggage?
+
+Food items are generally permitted, although destination countries may impose import restrictions.
+
+---
+
+### Can I carry baby food?
+
+Yes. Baby food required during the journey is generally permitted.
+
+---
+
+### Can I carry homemade food?
+
+Homemade food may generally be carried, subject to airport security regulations and destination import rules.
+
+---
+
+## Airport & Boarding
+
+### Do I need a printed boarding pass?
+
+Not always. Many airports accept digital boarding passes, although some airports still require printed copies.
+
+---
+
+### Can I use Apple Wallet for my boarding pass?
+
+Where supported, passengers may save their boarding pass to Apple Wallet or Google Wallet.
+
+---
+
+### What happens if I forget to check in online?
+
+Passengers may still complete check-in at the airport, provided they arrive before the applicable check-in deadline.
+
+---
+
+### Can I check in for my family?
+
+Passengers travelling on the same booking may usually be checked in together.
+
+---
+
+## Refunds & Booking
+
+### I missed my flight. Can I get my money back?
+
+Refund eligibility depends on your fare conditions. Missing a flight without cancelling beforehand may reduce refund eligibility.
+
+---
+
+### My flight was cancelled. What are my options?
+
+Eligible passengers may receive rebooking, travel credit, or a refund according to airline policies and applicable regulations.
+
+---
+
+### Can I cancel my ticket after online check-in?
+
+Cancellation options depend on fare conditions and the stage of travel. Additional restrictions may apply after check-in.
+
+---
+
+## Travel Documents
+
+### My passport expires soon. Can I still travel?
+
+Passport validity requirements depend on your destination country. Many countries require passports to remain valid for several months beyond the travel date.
+
+---
+
+### Do I need a transit visa?
+
+Transit visa requirements depend on your nationality, transit airport, and destination.
+
+---
+
+### Can Emirates guarantee my visa approval?
+
+No. Visa approval is determined solely by the immigration authorities of the destination country.
+
+---
+
+## Emirates Skywards
+
+### How can I check my Skywards Miles?
+
+Members can log in to their Emirates Skywards account to view available miles and account activity.
+
+---
+
+### Can I transfer my Skywards Miles?
+
+Certain mileage transfers or family programs may be available according to Emirates Skywards program rules.
+
+---
+
+### Do my Skywards Miles expire?
+
+Yes. Skywards Miles expire according to the Emirates Skywards program rules.
+
+---
+
+## Onboard Experience
+
+### Is Wi-Fi available during the flight?
+
+Many Emirates aircraft provide onboard Wi-Fi, although availability depends on the aircraft and route.
+
+---
+
+### Can I charge my laptop onboard?
+
+Many aircraft provide charging facilities, although availability varies by aircraft type.
+
+---
+
+### Does Emirates provide entertainment?
+
+Yes. Most Emirates-operated aircraft feature the ICE entertainment system offering movies, television, music, podcasts, and games.
+
+---
+
+## General
+
+### Can airline policies change?
+
+Yes. Airline policies, baggage allowances, immigration regulations, and operational procedures may change over time. Passengers should always verify the latest information through official Emirates communication channels before travelling.
+
+---
+
+### Where can I get the latest Emirates information?
+
+Passengers should consult the official Emirates website, customer service, or airport staff for the most up-to-date travel information.
+
 # Important Reminder
 
 Airline policies, immigration regulations, baggage allowances, and travel requirements may change over time. Passengers should always verify the latest information through official Emirates communication channels before travelling.

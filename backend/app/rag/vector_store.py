@@ -10,21 +10,36 @@ from app.rag.embeddings.embedding_factory import (
 )
 
 
-def get_vector_store():
-    embedding_model = get_embedding_model()
+class ChromaVectorStore:
 
-    return Chroma(
-        collection_name=CHROMA_COLLECTION_NAME,
-        persist_directory=CHROMA_PERSIST_DIRECTORY,
-        embedding_function=embedding_model,
-    )
+    def __init__(self):
 
+        self.embedding_model = get_embedding_model()
 
-def add_documents(chunks):
-    vector_store = get_vector_store()
-    vector_store.add_documents(chunks)
+        self.vector_store = Chroma(
+            collection_name=CHROMA_COLLECTION_NAME,
+            persist_directory=CHROMA_PERSIST_DIRECTORY,
+            embedding_function=self.embedding_model,
+        )
 
+    def add_documents(self, chunks):
 
-def delete_collection():
-    vector_store = get_vector_store()
-    vector_store.delete_collection()
+        self.vector_store.add_documents(chunks)
+
+    def as_retriever(self, search_kwargs=None):
+
+        if search_kwargs is None:
+            search_kwargs = {"k": 4}
+
+        return self.vector_store.as_retriever(
+            search_kwargs=search_kwargs
+        )
+
+    def reset_collection(self):
+        self.vector_store.delete_collection()
+
+        self.vector_store = Chroma(
+            collection_name=CHROMA_COLLECTION_NAME,
+            persist_directory=CHROMA_PERSIST_DIRECTORY,
+            embedding_function=self.embedding_model,
+        )

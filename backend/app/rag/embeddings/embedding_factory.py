@@ -7,15 +7,13 @@ from app.config import (
 
 
 def get_embedding_model():
-    """
-    Returns the configured embedding model.
-    """
 
     if EMBEDDING_PROVIDER == "huggingface":
+
         return HuggingFaceEmbeddings(
             model_name=EMBEDDING_MODEL
         )
 
     raise NotImplementedError(
-        f"Embedding provider '{EMBEDDING_PROVIDER}' is not supported."
+        f"{EMBEDDING_PROVIDER} is not supported."
     )

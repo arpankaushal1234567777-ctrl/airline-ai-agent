@@ -1,13 +1,10 @@
-from app.rag.loader import DocumentLoader
+from app.services.data_store import data_loader
 
-loader = DocumentLoader("data/knowledge_base")
 
-documents = loader.load_documents()
+bookings = data_loader.load_bookings()
 
-print(f"\nLoaded {len(documents)} documents\n")
+print(f"Total Bookings : {len(bookings)}")
 
-for doc in documents:
-    print("=" * 50)
-    print(doc.metadata)
-    print(doc.page_content[:200])
-    print()
+print()
+
+print(bookings[0])

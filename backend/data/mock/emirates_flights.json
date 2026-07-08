@@ -1,0 +1,3782 @@
+[
+    {
+        "flight_number": "EK200",
+        "origin": "Dubai",
+        "origin_iata": "DXB",
+        "destination": "Delhi",
+        "destination_iata": "DEL",
+        "departure": "18:30",
+        "arrival": "03:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 65,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK201",
+        "origin": "Dubai",
+        "origin_iata": "DXB",
+        "destination": "Mumbai",
+        "destination_iata": "BOM",
+        "departure": "13:15",
+        "arrival": "20:15",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 253,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK202",
+        "origin": "Dubai",
+        "origin_iata": "DXB",
+        "destination": "Bangalore",
+        "destination_iata": "BLR",
+        "departure": "15:30",
+        "arrival": "16:30",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 75,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK203",
+        "origin": "Dubai",
+        "origin_iata": "DXB",
+        "destination": "Hyderabad",
+        "destination_iata": "HYD",
+        "departure": "08:30",
+        "arrival": "20:00",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 281,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK204",
+        "origin": "Dubai",
+        "origin_iata": "DXB",
+        "destination": "Madras",
+        "destination_iata": "MAA",
+        "departure": "13:00",
+        "arrival": "14:15",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 317,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK205",
+        "origin": "Dubai",
+        "origin_iata": "DXB",
+        "destination": "Kochi",
+        "destination_iata": "COK",
+        "departure": "03:15",
+        "arrival": "19:45",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 194,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK206",
+        "origin": "Dubai",
+        "origin_iata": "DXB",
+        "destination": "Kolkata",
+        "destination_iata": "CCU",
+        "departure": "14:00",
+        "arrival": "05:45",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 90,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK207",
+        "origin": "Dubai",
+        "origin_iata": "DXB",
+        "destination": "London",
+        "destination_iata": "LHR",
+        "departure": "16:45",
+        "arrival": "14:00",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 302,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK208",
+        "origin": "Dubai",
+        "origin_iata": "DXB",
+        "destination": "Paris",
+        "destination_iata": "CDG",
+        "departure": "01:45",
+        "arrival": "04:45",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 231,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK209",
+        "origin": "Dubai",
+        "origin_iata": "DXB",
+        "destination": "Frankfurt",
+        "destination_iata": "FRA",
+        "departure": "08:45",
+        "arrival": "08:45",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 288,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK210",
+        "origin": "Dubai",
+        "origin_iata": "DXB",
+        "destination": "New York",
+        "destination_iata": "JFK",
+        "departure": "21:15",
+        "arrival": "23:30",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 205,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK211",
+        "origin": "Dubai",
+        "origin_iata": "DXB",
+        "destination": "Singapore",
+        "destination_iata": "SIN",
+        "departure": "09:15",
+        "arrival": "19:15",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 254,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK212",
+        "origin": "Dubai",
+        "origin_iata": "DXB",
+        "destination": "Sydney",
+        "destination_iata": "SYD",
+        "departure": "01:15",
+        "arrival": "01:30",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 63,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK213",
+        "origin": "Dubai",
+        "origin_iata": "DXB",
+        "destination": "Bangkok",
+        "destination_iata": "BKK",
+        "departure": "11:30",
+        "arrival": "16:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 274,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK214",
+        "origin": "Delhi",
+        "origin_iata": "DEL",
+        "destination": "Dubai",
+        "destination_iata": "DXB",
+        "departure": "08:15",
+        "arrival": "05:30",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 204,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK215",
+        "origin": "Delhi",
+        "origin_iata": "DEL",
+        "destination": "Mumbai",
+        "destination_iata": "BOM",
+        "departure": "12:00",
+        "arrival": "10:30",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 202,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK216",
+        "origin": "Delhi",
+        "origin_iata": "DEL",
+        "destination": "Bangalore",
+        "destination_iata": "BLR",
+        "departure": "01:00",
+        "arrival": "07:30",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 171,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK217",
+        "origin": "Delhi",
+        "origin_iata": "DEL",
+        "destination": "Hyderabad",
+        "destination_iata": "HYD",
+        "departure": "13:30",
+        "arrival": "20:30",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 184,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK218",
+        "origin": "Delhi",
+        "origin_iata": "DEL",
+        "destination": "Madras",
+        "destination_iata": "MAA",
+        "departure": "21:45",
+        "arrival": "08:00",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 163,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK219",
+        "origin": "Delhi",
+        "origin_iata": "DEL",
+        "destination": "Kochi",
+        "destination_iata": "COK",
+        "departure": "08:00",
+        "arrival": "11:45",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 179,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK220",
+        "origin": "Delhi",
+        "origin_iata": "DEL",
+        "destination": "Kolkata",
+        "destination_iata": "CCU",
+        "departure": "03:00",
+        "arrival": "11:00",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 122,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK221",
+        "origin": "Delhi",
+        "origin_iata": "DEL",
+        "destination": "London",
+        "destination_iata": "LHR",
+        "departure": "16:00",
+        "arrival": "23:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 275,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK222",
+        "origin": "Delhi",
+        "origin_iata": "DEL",
+        "destination": "Paris",
+        "destination_iata": "CDG",
+        "departure": "19:15",
+        "arrival": "09:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 128,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK223",
+        "origin": "Delhi",
+        "origin_iata": "DEL",
+        "destination": "Frankfurt",
+        "destination_iata": "FRA",
+        "departure": "18:15",
+        "arrival": "09:45",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 78,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK224",
+        "origin": "Delhi",
+        "origin_iata": "DEL",
+        "destination": "New York",
+        "destination_iata": "JFK",
+        "departure": "16:15",
+        "arrival": "04:45",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 40,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK225",
+        "origin": "Delhi",
+        "origin_iata": "DEL",
+        "destination": "Singapore",
+        "destination_iata": "SIN",
+        "departure": "12:30",
+        "arrival": "09:30",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 67,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK226",
+        "origin": "Delhi",
+        "origin_iata": "DEL",
+        "destination": "Sydney",
+        "destination_iata": "SYD",
+        "departure": "00:00",
+        "arrival": "07:45",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 130,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK227",
+        "origin": "Delhi",
+        "origin_iata": "DEL",
+        "destination": "Bangkok",
+        "destination_iata": "BKK",
+        "departure": "14:30",
+        "arrival": "07:30",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 100,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK228",
+        "origin": "Mumbai",
+        "origin_iata": "BOM",
+        "destination": "Dubai",
+        "destination_iata": "DXB",
+        "departure": "02:00",
+        "arrival": "04:30",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 228,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK229",
+        "origin": "Mumbai",
+        "origin_iata": "BOM",
+        "destination": "Delhi",
+        "destination_iata": "DEL",
+        "departure": "22:30",
+        "arrival": "04:30",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 218,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK230",
+        "origin": "Mumbai",
+        "origin_iata": "BOM",
+        "destination": "Bangalore",
+        "destination_iata": "BLR",
+        "departure": "23:00",
+        "arrival": "11:15",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 119,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK231",
+        "origin": "Mumbai",
+        "origin_iata": "BOM",
+        "destination": "Hyderabad",
+        "destination_iata": "HYD",
+        "departure": "21:30",
+        "arrival": "07:00",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 143,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK232",
+        "origin": "Mumbai",
+        "origin_iata": "BOM",
+        "destination": "Madras",
+        "destination_iata": "MAA",
+        "departure": "15:15",
+        "arrival": "16:45",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 181,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK233",
+        "origin": "Mumbai",
+        "origin_iata": "BOM",
+        "destination": "Kochi",
+        "destination_iata": "COK",
+        "departure": "22:45",
+        "arrival": "03:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 181,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK234",
+        "origin": "Mumbai",
+        "origin_iata": "BOM",
+        "destination": "Kolkata",
+        "destination_iata": "CCU",
+        "departure": "00:45",
+        "arrival": "10:30",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 50,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK235",
+        "origin": "Mumbai",
+        "origin_iata": "BOM",
+        "destination": "London",
+        "destination_iata": "LHR",
+        "departure": "10:45",
+        "arrival": "01:15",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 145,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK236",
+        "origin": "Mumbai",
+        "origin_iata": "BOM",
+        "destination": "Paris",
+        "destination_iata": "CDG",
+        "departure": "22:30",
+        "arrival": "10:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 234,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK237",
+        "origin": "Mumbai",
+        "origin_iata": "BOM",
+        "destination": "Frankfurt",
+        "destination_iata": "FRA",
+        "departure": "05:45",
+        "arrival": "15:00",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 176,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK238",
+        "origin": "Mumbai",
+        "origin_iata": "BOM",
+        "destination": "New York",
+        "destination_iata": "JFK",
+        "departure": "12:15",
+        "arrival": "13:30",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 226,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK239",
+        "origin": "Mumbai",
+        "origin_iata": "BOM",
+        "destination": "Singapore",
+        "destination_iata": "SIN",
+        "departure": "07:15",
+        "arrival": "07:30",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 170,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK240",
+        "origin": "Mumbai",
+        "origin_iata": "BOM",
+        "destination": "Sydney",
+        "destination_iata": "SYD",
+        "departure": "03:00",
+        "arrival": "18:00",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 153,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK241",
+        "origin": "Mumbai",
+        "origin_iata": "BOM",
+        "destination": "Bangkok",
+        "destination_iata": "BKK",
+        "departure": "10:00",
+        "arrival": "19:15",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 290,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK242",
+        "origin": "Bangalore",
+        "origin_iata": "BLR",
+        "destination": "Dubai",
+        "destination_iata": "DXB",
+        "departure": "21:15",
+        "arrival": "07:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 317,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK243",
+        "origin": "Bangalore",
+        "origin_iata": "BLR",
+        "destination": "Delhi",
+        "destination_iata": "DEL",
+        "departure": "13:30",
+        "arrival": "11:30",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 105,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK244",
+        "origin": "Bangalore",
+        "origin_iata": "BLR",
+        "destination": "Mumbai",
+        "destination_iata": "BOM",
+        "departure": "03:00",
+        "arrival": "04:30",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 225,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK245",
+        "origin": "Bangalore",
+        "origin_iata": "BLR",
+        "destination": "Hyderabad",
+        "destination_iata": "HYD",
+        "departure": "19:45",
+        "arrival": "18:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 195,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK246",
+        "origin": "Bangalore",
+        "origin_iata": "BLR",
+        "destination": "Madras",
+        "destination_iata": "MAA",
+        "departure": "02:45",
+        "arrival": "14:00",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 204,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK247",
+        "origin": "Bangalore",
+        "origin_iata": "BLR",
+        "destination": "Kochi",
+        "destination_iata": "COK",
+        "departure": "12:15",
+        "arrival": "20:15",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 191,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK248",
+        "origin": "Bangalore",
+        "origin_iata": "BLR",
+        "destination": "Kolkata",
+        "destination_iata": "CCU",
+        "departure": "23:30",
+        "arrival": "01:15",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 47,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK249",
+        "origin": "Bangalore",
+        "origin_iata": "BLR",
+        "destination": "London",
+        "destination_iata": "LHR",
+        "departure": "15:00",
+        "arrival": "05:45",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 70,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK250",
+        "origin": "Bangalore",
+        "origin_iata": "BLR",
+        "destination": "Paris",
+        "destination_iata": "CDG",
+        "departure": "20:45",
+        "arrival": "17:15",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 55,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK251",
+        "origin": "Bangalore",
+        "origin_iata": "BLR",
+        "destination": "Frankfurt",
+        "destination_iata": "FRA",
+        "departure": "00:45",
+        "arrival": "18:15",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 172,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK252",
+        "origin": "Bangalore",
+        "origin_iata": "BLR",
+        "destination": "New York",
+        "destination_iata": "JFK",
+        "departure": "04:45",
+        "arrival": "20:30",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 251,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK253",
+        "origin": "Bangalore",
+        "origin_iata": "BLR",
+        "destination": "Singapore",
+        "destination_iata": "SIN",
+        "departure": "07:15",
+        "arrival": "17:45",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 104,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK254",
+        "origin": "Bangalore",
+        "origin_iata": "BLR",
+        "destination": "Sydney",
+        "destination_iata": "SYD",
+        "departure": "22:15",
+        "arrival": "04:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 288,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK255",
+        "origin": "Bangalore",
+        "origin_iata": "BLR",
+        "destination": "Bangkok",
+        "destination_iata": "BKK",
+        "departure": "21:45",
+        "arrival": "22:00",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 274,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK256",
+        "origin": "Hyderabad",
+        "origin_iata": "HYD",
+        "destination": "Dubai",
+        "destination_iata": "DXB",
+        "departure": "17:15",
+        "arrival": "00:00",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 93,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK257",
+        "origin": "Hyderabad",
+        "origin_iata": "HYD",
+        "destination": "Delhi",
+        "destination_iata": "DEL",
+        "departure": "02:15",
+        "arrival": "00:45",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 114,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK258",
+        "origin": "Hyderabad",
+        "origin_iata": "HYD",
+        "destination": "Mumbai",
+        "destination_iata": "BOM",
+        "departure": "22:45",
+        "arrival": "14:30",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 119,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK259",
+        "origin": "Hyderabad",
+        "origin_iata": "HYD",
+        "destination": "Bangalore",
+        "destination_iata": "BLR",
+        "departure": "02:15",
+        "arrival": "19:30",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 316,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK260",
+        "origin": "Hyderabad",
+        "origin_iata": "HYD",
+        "destination": "Madras",
+        "destination_iata": "MAA",
+        "departure": "14:30",
+        "arrival": "20:45",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 66,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK261",
+        "origin": "Hyderabad",
+        "origin_iata": "HYD",
+        "destination": "Kochi",
+        "destination_iata": "COK",
+        "departure": "03:00",
+        "arrival": "06:45",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 245,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK262",
+        "origin": "Hyderabad",
+        "origin_iata": "HYD",
+        "destination": "Kolkata",
+        "destination_iata": "CCU",
+        "departure": "09:45",
+        "arrival": "14:00",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 178,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK263",
+        "origin": "Hyderabad",
+        "origin_iata": "HYD",
+        "destination": "London",
+        "destination_iata": "LHR",
+        "departure": "11:15",
+        "arrival": "12:45",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 114,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK264",
+        "origin": "Hyderabad",
+        "origin_iata": "HYD",
+        "destination": "Paris",
+        "destination_iata": "CDG",
+        "departure": "12:45",
+        "arrival": "11:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 111,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK265",
+        "origin": "Hyderabad",
+        "origin_iata": "HYD",
+        "destination": "Frankfurt",
+        "destination_iata": "FRA",
+        "departure": "16:00",
+        "arrival": "00:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 160,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK266",
+        "origin": "Hyderabad",
+        "origin_iata": "HYD",
+        "destination": "New York",
+        "destination_iata": "JFK",
+        "departure": "04:45",
+        "arrival": "02:00",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 221,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK267",
+        "origin": "Hyderabad",
+        "origin_iata": "HYD",
+        "destination": "Singapore",
+        "destination_iata": "SIN",
+        "departure": "03:45",
+        "arrival": "22:00",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 114,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK268",
+        "origin": "Hyderabad",
+        "origin_iata": "HYD",
+        "destination": "Sydney",
+        "destination_iata": "SYD",
+        "departure": "21:00",
+        "arrival": "17:45",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 189,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK269",
+        "origin": "Hyderabad",
+        "origin_iata": "HYD",
+        "destination": "Bangkok",
+        "destination_iata": "BKK",
+        "departure": "21:00",
+        "arrival": "06:15",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 103,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK270",
+        "origin": "Madras",
+        "origin_iata": "MAA",
+        "destination": "Dubai",
+        "destination_iata": "DXB",
+        "departure": "19:30",
+        "arrival": "03:15",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 277,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK271",
+        "origin": "Madras",
+        "origin_iata": "MAA",
+        "destination": "Delhi",
+        "destination_iata": "DEL",
+        "departure": "14:00",
+        "arrival": "19:15",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 153,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK272",
+        "origin": "Madras",
+        "origin_iata": "MAA",
+        "destination": "Mumbai",
+        "destination_iata": "BOM",
+        "departure": "08:00",
+        "arrival": "01:30",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 181,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK273",
+        "origin": "Madras",
+        "origin_iata": "MAA",
+        "destination": "Bangalore",
+        "destination_iata": "BLR",
+        "departure": "10:15",
+        "arrival": "04:00",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 192,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK274",
+        "origin": "Madras",
+        "origin_iata": "MAA",
+        "destination": "Hyderabad",
+        "destination_iata": "HYD",
+        "departure": "12:15",
+        "arrival": "05:15",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 57,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK275",
+        "origin": "Madras",
+        "origin_iata": "MAA",
+        "destination": "Kochi",
+        "destination_iata": "COK",
+        "departure": "14:45",
+        "arrival": "07:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 188,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK276",
+        "origin": "Madras",
+        "origin_iata": "MAA",
+        "destination": "Kolkata",
+        "destination_iata": "CCU",
+        "departure": "04:00",
+        "arrival": "22:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 62,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK277",
+        "origin": "Madras",
+        "origin_iata": "MAA",
+        "destination": "London",
+        "destination_iata": "LHR",
+        "departure": "12:00",
+        "arrival": "11:15",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 166,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK278",
+        "origin": "Madras",
+        "origin_iata": "MAA",
+        "destination": "Paris",
+        "destination_iata": "CDG",
+        "departure": "00:15",
+        "arrival": "12:45",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 273,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK279",
+        "origin": "Madras",
+        "origin_iata": "MAA",
+        "destination": "Frankfurt",
+        "destination_iata": "FRA",
+        "departure": "09:45",
+        "arrival": "04:45",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 249,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK280",
+        "origin": "Madras",
+        "origin_iata": "MAA",
+        "destination": "New York",
+        "destination_iata": "JFK",
+        "departure": "13:15",
+        "arrival": "06:45",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 48,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK281",
+        "origin": "Madras",
+        "origin_iata": "MAA",
+        "destination": "Singapore",
+        "destination_iata": "SIN",
+        "departure": "20:30",
+        "arrival": "23:30",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 226,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK282",
+        "origin": "Madras",
+        "origin_iata": "MAA",
+        "destination": "Sydney",
+        "destination_iata": "SYD",
+        "departure": "01:45",
+        "arrival": "21:00",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 296,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK283",
+        "origin": "Madras",
+        "origin_iata": "MAA",
+        "destination": "Bangkok",
+        "destination_iata": "BKK",
+        "departure": "05:45",
+        "arrival": "21:30",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 280,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK284",
+        "origin": "Kochi",
+        "origin_iata": "COK",
+        "destination": "Dubai",
+        "destination_iata": "DXB",
+        "departure": "08:15",
+        "arrival": "04:15",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 125,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK285",
+        "origin": "Kochi",
+        "origin_iata": "COK",
+        "destination": "Delhi",
+        "destination_iata": "DEL",
+        "departure": "23:15",
+        "arrival": "00:30",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 207,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK286",
+        "origin": "Kochi",
+        "origin_iata": "COK",
+        "destination": "Mumbai",
+        "destination_iata": "BOM",
+        "departure": "19:00",
+        "arrival": "12:30",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 102,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK287",
+        "origin": "Kochi",
+        "origin_iata": "COK",
+        "destination": "Bangalore",
+        "destination_iata": "BLR",
+        "departure": "01:30",
+        "arrival": "06:00",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 289,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK288",
+        "origin": "Kochi",
+        "origin_iata": "COK",
+        "destination": "Hyderabad",
+        "destination_iata": "HYD",
+        "departure": "16:00",
+        "arrival": "16:00",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 163,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK289",
+        "origin": "Kochi",
+        "origin_iata": "COK",
+        "destination": "Madras",
+        "destination_iata": "MAA",
+        "departure": "08:30",
+        "arrival": "19:00",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 240,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK290",
+        "origin": "Kochi",
+        "origin_iata": "COK",
+        "destination": "Kolkata",
+        "destination_iata": "CCU",
+        "departure": "11:15",
+        "arrival": "12:45",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 43,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK291",
+        "origin": "Kochi",
+        "origin_iata": "COK",
+        "destination": "London",
+        "destination_iata": "LHR",
+        "departure": "18:30",
+        "arrival": "20:45",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 161,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK292",
+        "origin": "Kochi",
+        "origin_iata": "COK",
+        "destination": "Paris",
+        "destination_iata": "CDG",
+        "departure": "09:45",
+        "arrival": "18:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 260,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK293",
+        "origin": "Kochi",
+        "origin_iata": "COK",
+        "destination": "Frankfurt",
+        "destination_iata": "FRA",
+        "departure": "11:15",
+        "arrival": "11:00",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 320,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK294",
+        "origin": "Kochi",
+        "origin_iata": "COK",
+        "destination": "New York",
+        "destination_iata": "JFK",
+        "departure": "19:45",
+        "arrival": "19:15",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 118,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK295",
+        "origin": "Kochi",
+        "origin_iata": "COK",
+        "destination": "Singapore",
+        "destination_iata": "SIN",
+        "departure": "13:45",
+        "arrival": "12:00",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 201,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK296",
+        "origin": "Kochi",
+        "origin_iata": "COK",
+        "destination": "Sydney",
+        "destination_iata": "SYD",
+        "departure": "10:30",
+        "arrival": "16:30",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 138,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK297",
+        "origin": "Kochi",
+        "origin_iata": "COK",
+        "destination": "Bangkok",
+        "destination_iata": "BKK",
+        "departure": "07:00",
+        "arrival": "19:30",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 309,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK298",
+        "origin": "Kolkata",
+        "origin_iata": "CCU",
+        "destination": "Dubai",
+        "destination_iata": "DXB",
+        "departure": "19:00",
+        "arrival": "06:30",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 59,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK299",
+        "origin": "Kolkata",
+        "origin_iata": "CCU",
+        "destination": "Delhi",
+        "destination_iata": "DEL",
+        "departure": "03:45",
+        "arrival": "04:15",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 161,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK300",
+        "origin": "Kolkata",
+        "origin_iata": "CCU",
+        "destination": "Mumbai",
+        "destination_iata": "BOM",
+        "departure": "06:45",
+        "arrival": "12:30",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 99,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK301",
+        "origin": "Kolkata",
+        "origin_iata": "CCU",
+        "destination": "Bangalore",
+        "destination_iata": "BLR",
+        "departure": "09:15",
+        "arrival": "14:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 155,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK302",
+        "origin": "Kolkata",
+        "origin_iata": "CCU",
+        "destination": "Hyderabad",
+        "destination_iata": "HYD",
+        "departure": "01:00",
+        "arrival": "03:30",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 305,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK303",
+        "origin": "Kolkata",
+        "origin_iata": "CCU",
+        "destination": "Madras",
+        "destination_iata": "MAA",
+        "departure": "07:30",
+        "arrival": "15:00",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 154,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK304",
+        "origin": "Kolkata",
+        "origin_iata": "CCU",
+        "destination": "Kochi",
+        "destination_iata": "COK",
+        "departure": "13:15",
+        "arrival": "02:30",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 281,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK305",
+        "origin": "Kolkata",
+        "origin_iata": "CCU",
+        "destination": "London",
+        "destination_iata": "LHR",
+        "departure": "19:15",
+        "arrival": "01:45",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 180,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK306",
+        "origin": "Kolkata",
+        "origin_iata": "CCU",
+        "destination": "Paris",
+        "destination_iata": "CDG",
+        "departure": "16:15",
+        "arrival": "17:00",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 91,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK307",
+        "origin": "Kolkata",
+        "origin_iata": "CCU",
+        "destination": "Frankfurt",
+        "destination_iata": "FRA",
+        "departure": "03:30",
+        "arrival": "12:15",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 293,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK308",
+        "origin": "Kolkata",
+        "origin_iata": "CCU",
+        "destination": "New York",
+        "destination_iata": "JFK",
+        "departure": "04:30",
+        "arrival": "12:15",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 143,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK309",
+        "origin": "Kolkata",
+        "origin_iata": "CCU",
+        "destination": "Singapore",
+        "destination_iata": "SIN",
+        "departure": "05:00",
+        "arrival": "07:45",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 177,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK310",
+        "origin": "Kolkata",
+        "origin_iata": "CCU",
+        "destination": "Sydney",
+        "destination_iata": "SYD",
+        "departure": "09:00",
+        "arrival": "22:45",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 220,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK311",
+        "origin": "Kolkata",
+        "origin_iata": "CCU",
+        "destination": "Bangkok",
+        "destination_iata": "BKK",
+        "departure": "15:45",
+        "arrival": "20:30",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 205,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK312",
+        "origin": "London",
+        "origin_iata": "LHR",
+        "destination": "Dubai",
+        "destination_iata": "DXB",
+        "departure": "05:00",
+        "arrival": "03:30",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 285,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK313",
+        "origin": "London",
+        "origin_iata": "LHR",
+        "destination": "Delhi",
+        "destination_iata": "DEL",
+        "departure": "05:30",
+        "arrival": "16:30",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 161,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK314",
+        "origin": "London",
+        "origin_iata": "LHR",
+        "destination": "Mumbai",
+        "destination_iata": "BOM",
+        "departure": "23:15",
+        "arrival": "14:30",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 277,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK315",
+        "origin": "London",
+        "origin_iata": "LHR",
+        "destination": "Bangalore",
+        "destination_iata": "BLR",
+        "departure": "21:30",
+        "arrival": "19:45",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 64,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK316",
+        "origin": "London",
+        "origin_iata": "LHR",
+        "destination": "Hyderabad",
+        "destination_iata": "HYD",
+        "departure": "09:00",
+        "arrival": "20:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 250,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK317",
+        "origin": "London",
+        "origin_iata": "LHR",
+        "destination": "Madras",
+        "destination_iata": "MAA",
+        "departure": "17:00",
+        "arrival": "23:15",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 106,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK318",
+        "origin": "London",
+        "origin_iata": "LHR",
+        "destination": "Kochi",
+        "destination_iata": "COK",
+        "departure": "12:15",
+        "arrival": "17:45",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 303,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK319",
+        "origin": "London",
+        "origin_iata": "LHR",
+        "destination": "Kolkata",
+        "destination_iata": "CCU",
+        "departure": "09:45",
+        "arrival": "11:30",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 190,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK320",
+        "origin": "London",
+        "origin_iata": "LHR",
+        "destination": "Paris",
+        "destination_iata": "CDG",
+        "departure": "00:45",
+        "arrival": "14:30",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 223,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK321",
+        "origin": "London",
+        "origin_iata": "LHR",
+        "destination": "Frankfurt",
+        "destination_iata": "FRA",
+        "departure": "11:15",
+        "arrival": "07:00",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 193,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK322",
+        "origin": "London",
+        "origin_iata": "LHR",
+        "destination": "New York",
+        "destination_iata": "JFK",
+        "departure": "13:15",
+        "arrival": "10:45",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 98,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK323",
+        "origin": "London",
+        "origin_iata": "LHR",
+        "destination": "Singapore",
+        "destination_iata": "SIN",
+        "departure": "21:45",
+        "arrival": "01:45",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 292,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK324",
+        "origin": "London",
+        "origin_iata": "LHR",
+        "destination": "Sydney",
+        "destination_iata": "SYD",
+        "departure": "03:00",
+        "arrival": "18:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 256,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK325",
+        "origin": "London",
+        "origin_iata": "LHR",
+        "destination": "Bangkok",
+        "destination_iata": "BKK",
+        "departure": "00:15",
+        "arrival": "03:15",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 95,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK326",
+        "origin": "Paris",
+        "origin_iata": "CDG",
+        "destination": "Dubai",
+        "destination_iata": "DXB",
+        "departure": "18:15",
+        "arrival": "23:00",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 203,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK327",
+        "origin": "Paris",
+        "origin_iata": "CDG",
+        "destination": "Delhi",
+        "destination_iata": "DEL",
+        "departure": "04:00",
+        "arrival": "00:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 120,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK328",
+        "origin": "Paris",
+        "origin_iata": "CDG",
+        "destination": "Mumbai",
+        "destination_iata": "BOM",
+        "departure": "17:30",
+        "arrival": "02:00",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 221,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK329",
+        "origin": "Paris",
+        "origin_iata": "CDG",
+        "destination": "Bangalore",
+        "destination_iata": "BLR",
+        "departure": "23:00",
+        "arrival": "11:15",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 69,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK330",
+        "origin": "Paris",
+        "origin_iata": "CDG",
+        "destination": "Hyderabad",
+        "destination_iata": "HYD",
+        "departure": "16:30",
+        "arrival": "20:30",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 58,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK331",
+        "origin": "Paris",
+        "origin_iata": "CDG",
+        "destination": "Madras",
+        "destination_iata": "MAA",
+        "departure": "17:15",
+        "arrival": "01:30",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 42,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK332",
+        "origin": "Paris",
+        "origin_iata": "CDG",
+        "destination": "Kochi",
+        "destination_iata": "COK",
+        "departure": "23:30",
+        "arrival": "22:00",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 105,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK333",
+        "origin": "Paris",
+        "origin_iata": "CDG",
+        "destination": "Kolkata",
+        "destination_iata": "CCU",
+        "departure": "12:45",
+        "arrival": "19:30",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 59,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK334",
+        "origin": "Paris",
+        "origin_iata": "CDG",
+        "destination": "London",
+        "destination_iata": "LHR",
+        "departure": "17:00",
+        "arrival": "14:00",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 225,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK335",
+        "origin": "Paris",
+        "origin_iata": "CDG",
+        "destination": "Frankfurt",
+        "destination_iata": "FRA",
+        "departure": "06:00",
+        "arrival": "06:00",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 293,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK336",
+        "origin": "Paris",
+        "origin_iata": "CDG",
+        "destination": "New York",
+        "destination_iata": "JFK",
+        "departure": "16:45",
+        "arrival": "05:45",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 187,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK337",
+        "origin": "Paris",
+        "origin_iata": "CDG",
+        "destination": "Singapore",
+        "destination_iata": "SIN",
+        "departure": "18:00",
+        "arrival": "00:15",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 195,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK338",
+        "origin": "Paris",
+        "origin_iata": "CDG",
+        "destination": "Sydney",
+        "destination_iata": "SYD",
+        "departure": "21:00",
+        "arrival": "07:00",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 174,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK339",
+        "origin": "Paris",
+        "origin_iata": "CDG",
+        "destination": "Bangkok",
+        "destination_iata": "BKK",
+        "departure": "13:00",
+        "arrival": "15:15",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 285,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK340",
+        "origin": "Frankfurt",
+        "origin_iata": "FRA",
+        "destination": "Dubai",
+        "destination_iata": "DXB",
+        "departure": "10:30",
+        "arrival": "05:15",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 199,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK341",
+        "origin": "Frankfurt",
+        "origin_iata": "FRA",
+        "destination": "Delhi",
+        "destination_iata": "DEL",
+        "departure": "16:45",
+        "arrival": "19:45",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 183,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK342",
+        "origin": "Frankfurt",
+        "origin_iata": "FRA",
+        "destination": "Mumbai",
+        "destination_iata": "BOM",
+        "departure": "08:15",
+        "arrival": "08:15",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 297,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK343",
+        "origin": "Frankfurt",
+        "origin_iata": "FRA",
+        "destination": "Bangalore",
+        "destination_iata": "BLR",
+        "departure": "11:00",
+        "arrival": "07:30",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 176,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK344",
+        "origin": "Frankfurt",
+        "origin_iata": "FRA",
+        "destination": "Hyderabad",
+        "destination_iata": "HYD",
+        "departure": "02:45",
+        "arrival": "23:45",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 184,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK345",
+        "origin": "Frankfurt",
+        "origin_iata": "FRA",
+        "destination": "Madras",
+        "destination_iata": "MAA",
+        "departure": "04:15",
+        "arrival": "04:45",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 274,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK346",
+        "origin": "Frankfurt",
+        "origin_iata": "FRA",
+        "destination": "Kochi",
+        "destination_iata": "COK",
+        "departure": "10:30",
+        "arrival": "18:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 244,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK347",
+        "origin": "Frankfurt",
+        "origin_iata": "FRA",
+        "destination": "Kolkata",
+        "destination_iata": "CCU",
+        "departure": "16:00",
+        "arrival": "22:45",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 104,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK348",
+        "origin": "Frankfurt",
+        "origin_iata": "FRA",
+        "destination": "London",
+        "destination_iata": "LHR",
+        "departure": "00:00",
+        "arrival": "10:00",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 63,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK349",
+        "origin": "Frankfurt",
+        "origin_iata": "FRA",
+        "destination": "Paris",
+        "destination_iata": "CDG",
+        "departure": "11:45",
+        "arrival": "16:30",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 133,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK350",
+        "origin": "Frankfurt",
+        "origin_iata": "FRA",
+        "destination": "New York",
+        "destination_iata": "JFK",
+        "departure": "19:15",
+        "arrival": "19:45",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 249,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK351",
+        "origin": "Frankfurt",
+        "origin_iata": "FRA",
+        "destination": "Singapore",
+        "destination_iata": "SIN",
+        "departure": "05:45",
+        "arrival": "13:30",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 100,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK352",
+        "origin": "Frankfurt",
+        "origin_iata": "FRA",
+        "destination": "Sydney",
+        "destination_iata": "SYD",
+        "departure": "18:00",
+        "arrival": "19:45",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 197,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK353",
+        "origin": "Frankfurt",
+        "origin_iata": "FRA",
+        "destination": "Bangkok",
+        "destination_iata": "BKK",
+        "departure": "22:45",
+        "arrival": "06:30",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 140,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK354",
+        "origin": "New York",
+        "origin_iata": "JFK",
+        "destination": "Dubai",
+        "destination_iata": "DXB",
+        "departure": "18:45",
+        "arrival": "10:00",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 125,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK355",
+        "origin": "New York",
+        "origin_iata": "JFK",
+        "destination": "Delhi",
+        "destination_iata": "DEL",
+        "departure": "19:45",
+        "arrival": "09:45",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 206,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK356",
+        "origin": "New York",
+        "origin_iata": "JFK",
+        "destination": "Mumbai",
+        "destination_iata": "BOM",
+        "departure": "18:00",
+        "arrival": "16:45",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 197,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK357",
+        "origin": "New York",
+        "origin_iata": "JFK",
+        "destination": "Bangalore",
+        "destination_iata": "BLR",
+        "departure": "19:45",
+        "arrival": "06:15",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 58,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK358",
+        "origin": "New York",
+        "origin_iata": "JFK",
+        "destination": "Hyderabad",
+        "destination_iata": "HYD",
+        "departure": "11:00",
+        "arrival": "02:45",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 270,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK359",
+        "origin": "New York",
+        "origin_iata": "JFK",
+        "destination": "Madras",
+        "destination_iata": "MAA",
+        "departure": "23:45",
+        "arrival": "15:00",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 53,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK360",
+        "origin": "New York",
+        "origin_iata": "JFK",
+        "destination": "Kochi",
+        "destination_iata": "COK",
+        "departure": "09:15",
+        "arrival": "20:00",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 71,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK361",
+        "origin": "New York",
+        "origin_iata": "JFK",
+        "destination": "Kolkata",
+        "destination_iata": "CCU",
+        "departure": "10:45",
+        "arrival": "14:30",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 114,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK362",
+        "origin": "New York",
+        "origin_iata": "JFK",
+        "destination": "London",
+        "destination_iata": "LHR",
+        "departure": "07:15",
+        "arrival": "17:30",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 204,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK363",
+        "origin": "New York",
+        "origin_iata": "JFK",
+        "destination": "Paris",
+        "destination_iata": "CDG",
+        "departure": "13:15",
+        "arrival": "10:00",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 225,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK364",
+        "origin": "New York",
+        "origin_iata": "JFK",
+        "destination": "Frankfurt",
+        "destination_iata": "FRA",
+        "departure": "02:45",
+        "arrival": "16:00",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 69,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK365",
+        "origin": "New York",
+        "origin_iata": "JFK",
+        "destination": "Singapore",
+        "destination_iata": "SIN",
+        "departure": "11:30",
+        "arrival": "12:45",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 57,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK366",
+        "origin": "New York",
+        "origin_iata": "JFK",
+        "destination": "Sydney",
+        "destination_iata": "SYD",
+        "departure": "04:30",
+        "arrival": "23:00",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 309,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK367",
+        "origin": "New York",
+        "origin_iata": "JFK",
+        "destination": "Bangkok",
+        "destination_iata": "BKK",
+        "departure": "02:00",
+        "arrival": "11:30",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 230,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK368",
+        "origin": "Singapore",
+        "origin_iata": "SIN",
+        "destination": "Dubai",
+        "destination_iata": "DXB",
+        "departure": "08:00",
+        "arrival": "14:15",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 171,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK369",
+        "origin": "Singapore",
+        "origin_iata": "SIN",
+        "destination": "Delhi",
+        "destination_iata": "DEL",
+        "departure": "01:45",
+        "arrival": "00:30",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 115,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK370",
+        "origin": "Singapore",
+        "origin_iata": "SIN",
+        "destination": "Mumbai",
+        "destination_iata": "BOM",
+        "departure": "01:00",
+        "arrival": "18:45",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 249,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK371",
+        "origin": "Singapore",
+        "origin_iata": "SIN",
+        "destination": "Bangalore",
+        "destination_iata": "BLR",
+        "departure": "10:15",
+        "arrival": "02:00",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 244,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK372",
+        "origin": "Singapore",
+        "origin_iata": "SIN",
+        "destination": "Hyderabad",
+        "destination_iata": "HYD",
+        "departure": "20:30",
+        "arrival": "23:00",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 292,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK373",
+        "origin": "Singapore",
+        "origin_iata": "SIN",
+        "destination": "Madras",
+        "destination_iata": "MAA",
+        "departure": "11:00",
+        "arrival": "06:15",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 147,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK374",
+        "origin": "Singapore",
+        "origin_iata": "SIN",
+        "destination": "Kochi",
+        "destination_iata": "COK",
+        "departure": "16:00",
+        "arrival": "13:45",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 50,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK375",
+        "origin": "Singapore",
+        "origin_iata": "SIN",
+        "destination": "Kolkata",
+        "destination_iata": "CCU",
+        "departure": "09:45",
+        "arrival": "11:00",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 88,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK376",
+        "origin": "Singapore",
+        "origin_iata": "SIN",
+        "destination": "London",
+        "destination_iata": "LHR",
+        "departure": "19:15",
+        "arrival": "16:00",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 73,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK377",
+        "origin": "Singapore",
+        "origin_iata": "SIN",
+        "destination": "Paris",
+        "destination_iata": "CDG",
+        "departure": "16:45",
+        "arrival": "01:30",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 215,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK378",
+        "origin": "Singapore",
+        "origin_iata": "SIN",
+        "destination": "Frankfurt",
+        "destination_iata": "FRA",
+        "departure": "05:00",
+        "arrival": "10:45",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 216,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK379",
+        "origin": "Singapore",
+        "origin_iata": "SIN",
+        "destination": "New York",
+        "destination_iata": "JFK",
+        "departure": "22:30",
+        "arrival": "03:30",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 184,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK380",
+        "origin": "Singapore",
+        "origin_iata": "SIN",
+        "destination": "Sydney",
+        "destination_iata": "SYD",
+        "departure": "18:15",
+        "arrival": "13:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 86,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK381",
+        "origin": "Singapore",
+        "origin_iata": "SIN",
+        "destination": "Bangkok",
+        "destination_iata": "BKK",
+        "departure": "21:30",
+        "arrival": "16:15",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 295,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK382",
+        "origin": "Sydney",
+        "origin_iata": "SYD",
+        "destination": "Dubai",
+        "destination_iata": "DXB",
+        "departure": "21:45",
+        "arrival": "10:30",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 172,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK383",
+        "origin": "Sydney",
+        "origin_iata": "SYD",
+        "destination": "Delhi",
+        "destination_iata": "DEL",
+        "departure": "23:45",
+        "arrival": "08:45",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 126,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK384",
+        "origin": "Sydney",
+        "origin_iata": "SYD",
+        "destination": "Mumbai",
+        "destination_iata": "BOM",
+        "departure": "04:00",
+        "arrival": "05:00",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 168,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK385",
+        "origin": "Sydney",
+        "origin_iata": "SYD",
+        "destination": "Bangalore",
+        "destination_iata": "BLR",
+        "departure": "01:00",
+        "arrival": "07:00",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 156,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK386",
+        "origin": "Sydney",
+        "origin_iata": "SYD",
+        "destination": "Hyderabad",
+        "destination_iata": "HYD",
+        "departure": "18:45",
+        "arrival": "11:00",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 68,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK387",
+        "origin": "Sydney",
+        "origin_iata": "SYD",
+        "destination": "Madras",
+        "destination_iata": "MAA",
+        "departure": "06:45",
+        "arrival": "23:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 115,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK388",
+        "origin": "Sydney",
+        "origin_iata": "SYD",
+        "destination": "Kochi",
+        "destination_iata": "COK",
+        "departure": "15:45",
+        "arrival": "11:45",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 288,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK389",
+        "origin": "Sydney",
+        "origin_iata": "SYD",
+        "destination": "Kolkata",
+        "destination_iata": "CCU",
+        "departure": "17:00",
+        "arrival": "02:00",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 168,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK390",
+        "origin": "Sydney",
+        "origin_iata": "SYD",
+        "destination": "London",
+        "destination_iata": "LHR",
+        "departure": "11:45",
+        "arrival": "16:30",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 231,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK391",
+        "origin": "Sydney",
+        "origin_iata": "SYD",
+        "destination": "Paris",
+        "destination_iata": "CDG",
+        "departure": "14:00",
+        "arrival": "04:15",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 271,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK392",
+        "origin": "Sydney",
+        "origin_iata": "SYD",
+        "destination": "Frankfurt",
+        "destination_iata": "FRA",
+        "departure": "22:30",
+        "arrival": "01:15",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 71,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK393",
+        "origin": "Sydney",
+        "origin_iata": "SYD",
+        "destination": "New York",
+        "destination_iata": "JFK",
+        "departure": "11:30",
+        "arrival": "15:00",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 186,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK394",
+        "origin": "Sydney",
+        "origin_iata": "SYD",
+        "destination": "Singapore",
+        "destination_iata": "SIN",
+        "departure": "08:00",
+        "arrival": "06:30",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 132,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK395",
+        "origin": "Sydney",
+        "origin_iata": "SYD",
+        "destination": "Bangkok",
+        "destination_iata": "BKK",
+        "departure": "01:45",
+        "arrival": "23:30",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 72,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK396",
+        "origin": "Bangkok",
+        "origin_iata": "BKK",
+        "destination": "Dubai",
+        "destination_iata": "DXB",
+        "departure": "20:45",
+        "arrival": "13:45",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 249,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK397",
+        "origin": "Bangkok",
+        "origin_iata": "BKK",
+        "destination": "Delhi",
+        "destination_iata": "DEL",
+        "departure": "21:00",
+        "arrival": "02:30",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 316,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK398",
+        "origin": "Bangkok",
+        "origin_iata": "BKK",
+        "destination": "Mumbai",
+        "destination_iata": "BOM",
+        "departure": "07:00",
+        "arrival": "01:15",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 317,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK399",
+        "origin": "Bangkok",
+        "origin_iata": "BKK",
+        "destination": "Bangalore",
+        "destination_iata": "BLR",
+        "departure": "13:30",
+        "arrival": "16:45",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 107,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK400",
+        "origin": "Bangkok",
+        "origin_iata": "BKK",
+        "destination": "Hyderabad",
+        "destination_iata": "HYD",
+        "departure": "15:15",
+        "arrival": "13:45",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 73,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK401",
+        "origin": "Bangkok",
+        "origin_iata": "BKK",
+        "destination": "Madras",
+        "destination_iata": "MAA",
+        "departure": "15:30",
+        "arrival": "09:45",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 51,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK402",
+        "origin": "Bangkok",
+        "origin_iata": "BKK",
+        "destination": "Kochi",
+        "destination_iata": "COK",
+        "departure": "20:30",
+        "arrival": "21:15",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 149,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK403",
+        "origin": "Bangkok",
+        "origin_iata": "BKK",
+        "destination": "Kolkata",
+        "destination_iata": "CCU",
+        "departure": "10:15",
+        "arrival": "23:15",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 191,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK404",
+        "origin": "Bangkok",
+        "origin_iata": "BKK",
+        "destination": "London",
+        "destination_iata": "LHR",
+        "departure": "03:15",
+        "arrival": "16:45",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 191,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK405",
+        "origin": "Bangkok",
+        "origin_iata": "BKK",
+        "destination": "Paris",
+        "destination_iata": "CDG",
+        "departure": "15:45",
+        "arrival": "16:45",
+        "aircraft": "Boeing 777-300ER",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 105,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK406",
+        "origin": "Bangkok",
+        "origin_iata": "BKK",
+        "destination": "Frankfurt",
+        "destination_iata": "FRA",
+        "departure": "22:15",
+        "arrival": "08:30",
+        "aircraft": "Boeing 777-200LR",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 299,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK407",
+        "origin": "Bangkok",
+        "origin_iata": "BKK",
+        "destination": "New York",
+        "destination_iata": "JFK",
+        "departure": "07:00",
+        "arrival": "11:45",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 94,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK408",
+        "origin": "Bangkok",
+        "origin_iata": "BKK",
+        "destination": "Singapore",
+        "destination_iata": "SIN",
+        "departure": "07:45",
+        "arrival": "17:30",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 99,
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "EK409",
+        "origin": "Bangkok",
+        "origin_iata": "BKK",
+        "destination": "Sydney",
+        "destination_iata": "SYD",
+        "departure": "01:45",
+        "arrival": "12:00",
+        "aircraft": "Airbus A380-800",
+        "travel_classes": [
+            "Economy",
+            "Premium Economy",
+            "Business",
+            "First"
+        ],
+        "available_seats": 119,
+        "status": "Scheduled"
+    }
+]

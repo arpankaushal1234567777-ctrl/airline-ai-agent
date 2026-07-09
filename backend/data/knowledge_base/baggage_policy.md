@@ -2,6 +2,10 @@
 
 ## Metadata
 
+-# Emirates Baggage Policy
+
+## Metadata
+
 - **Category:** Baggage
 - **Airline:** Emirates
 - **Document Type:** Knowledge Base
@@ -13,7 +17,7 @@
 
 # Overview
 
-Emirates provides baggage allowances based on the passenger's travel class, fare type, and route. Baggage rules include cabin baggage, checked baggage, special baggage, excess baggage, restricted items, and dangerous goods.
+Emirates provides baggage allowances based on the passenger's travel class and route. Baggage rules include cabin baggage, checked baggage, special baggage, excess baggage, restricted items, and dangerous goods.
 
 Passengers should always ensure that their baggage complies with airline weight and size limits before arriving at the airport.
 
@@ -67,71 +71,33 @@ First Class passengers receive the same cabin baggage allowance as Business Clas
 
 # Checked Baggage
 
-Checked baggage allowance depends on both the fare purchased and the travel route.
+Checked baggage allowance depends on the travel class booked.
 
-Two baggage systems are used:
+Emirates uses the Weight Concept for checked baggage on this system:
 
-- Weight Concept
-- Piece Concept
-
----
-
-## Weight Concept
-
-The weight concept applies to most Emirates routes.
-
-Typical allowance:
-
-| Travel Class | Checked Allowance |
-|---------------|------------------|
-| Economy Special | 20 kg |
-| Economy Saver | 25 kg |
-| Economy Flex | 30 kg |
-| Economy Flex Plus | 35 kg |
-| Premium Economy | 35 kg |
-| Business Class | 40 kg |
-| First Class | 50 kg |
+| Travel Class | Checked Allowance | Excess Fee (per kg over) |
+|---------------|-------------------|---------------------------|
+| Economy | 23 kg | ₹1000 |
+| Premium Economy | 35 kg | ₹1000 |
+| Business Class | 40 kg | ₹1000 |
+| First Class | 50 kg | ₹1000 |
 
 Important rules:
 
-- Individual bags must not exceed 32 kg.
+- Individual bags must not exceed 32 kg regardless of total allowance.
 - Total dimensions of each checked bag should generally not exceed 203 cm (length + width + height).
-
----
-
-## Piece Concept
-
-Some routes (such as many flights involving the Americas) use the Piece Concept instead of total weight.
-
-Typical allowance:
-
-Economy
-
-- One or two checked bags depending on fare
-- Each bag up to 23 kg
-
-Business
-
-- Two checked bags
-- Up to 32 kg each
-
-First
-
-- Two checked bags
-- Up to 32 kg each
-
-Route-specific rules may apply.
+- Any weight above the allowance for your travel class is charged at ₹1000 per kilogram.
 
 ---
 
 # Excess Baggage
 
-Passengers travelling with baggage exceeding their free allowance may purchase additional baggage.
+Passengers travelling with baggage exceeding their free allowance will be charged ₹1000 per kilogram over their travel class's checked allowance (see table above).
 
 Important notes:
 
-- Buying excess baggage online before departure is generally cheaper than paying at the airport.
-- Charges depend on route, destination, and the amount of excess baggage.
+- The excess fee is calculated automatically based on travel class and total baggage weight.
+- Charges depend on how much your baggage exceeds your class's free allowance.
 
 ---
 
@@ -149,7 +115,7 @@ Examples include:
 - Bicycles
 - Cricket equipment
 
-Oversized equipment may incur additional charges.
+Oversized equipment may incur additional charges beyond the standard excess baggage fee.
 
 ---
 
@@ -209,7 +175,7 @@ If the battery cannot remain safely installed, passengers may be required to rem
 
 # Important Notes
 
-- Baggage allowances vary by route and ticket.
+- Baggage allowances are determined by travel class as shown above.
 - Codeshare flights may follow baggage rules of another airline.
 - Airport security regulations may impose additional restrictions.
 - Final baggage eligibility is determined during check-in.
@@ -226,7 +192,7 @@ Only Business Class and First Class passengers are generally permitted two cabin
 
 ## What happens if my bag exceeds the weight limit?
 
-The passenger may need to pay excess baggage charges or repack baggage before check-in.
+The passenger will be charged ₹1000 per kilogram over their travel class's checked allowance.
 
 ---
 
@@ -242,6 +208,11 @@ Power banks should generally be carried in cabin baggage and should not be packe
 
 ---
 
-## Do baggage rules differ by destination?
+## What is the checked baggage allowance for my travel class?
 
-Yes. Some routes follow the Weight Concept while others use the Piece Concept. Always verify the allowance shown on the booking confirmation.
+- Economy: 23 kg
+- Premium Economy: 35 kg
+- Business Class: 40 kg
+- First Class: 50 kg
+
+Any weight above this is charged at ₹1000 per kilogram excess.

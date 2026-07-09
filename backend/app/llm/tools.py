@@ -15,9 +15,9 @@ from app.functions.nearest_airport import nearest_airport
 from app.functions.aircraft_lookup import find_aircraft
 from app.functions.airline_lookup import find_airline
 from app.functions.airport_lookup import find_airport
-# from app.functions.refund_policy import get_refund_policy  # add once written
-# from app.functions.flight_status import check_flight_status  # not built yet
-# from app.functions.weather import get_weather  # not built yet
+from app.functions.refund_policy import get_refund_policy
+from app.functions.flight_status import check_flight_status
+from app.functions.weather import get_weather
 
 
 @tool
@@ -99,6 +99,39 @@ def find_airport_tool(city: str) -> list:
     return find_airport(city)
 
 
+@tool
+def get_refund_policy_tool(fare_type: str) -> dict:
+    """
+    Look up the refund policy for a given fare type.
+
+    Args:
+        fare_type: One of "Fully Refundable", "Semi Refundable", "Non Refundable".
+    """
+    return get_refund_policy(fare_type)
+
+
+@tool
+def check_flight_status_tool(flight_number: str) -> dict:
+    """
+    Check the current status of an Emirates flight.
+
+    Args:
+        flight_number: The Emirates flight number, e.g. "EK200" or "EK524".
+    """
+    return check_flight_status(flight_number)
+
+
+@tool
+def get_weather_tool(city: str) -> dict:
+    """
+    Get the current weather at a destination city.
+
+    Args:
+        city: City name, e.g. "Dubai", "London", "Tokyo".
+    """
+    return get_weather(city)
+
+
 # Collect all tools here so chatbot.py just imports this one list.
 ALL_TOOLS = [
     search_flights_tool,
@@ -108,6 +141,9 @@ ALL_TOOLS = [
     find_aircraft_tool,
     find_airline_tool,
     find_airport_tool,
+    get_refund_policy_tool,
+    check_flight_status_tool,
+    get_weather_tool,
 ]
 
 TOOLS_BY_NAME = {t.name: t for t in ALL_TOOLS}

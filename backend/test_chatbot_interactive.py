@@ -7,7 +7,7 @@ def main():
 
     print("=" * 50)
     print("✈️ Airline AI Customer Support Agent (with tools)")
-    print("Type 'exit' to quit.")
+    print("Type 'exit' to quit, 'reset' to clear history.")
     print("=" * 50)
     print("Try things like:")
     print("  - Find me flights from Dubai to London")
@@ -18,10 +18,18 @@ def main():
 
     while True:
 
-        question = input("\nYou: ")
+        question = input("\nYou: ").strip()
 
         if question.lower() in ["exit", "quit"]:
             break
+
+        if question.lower() == "reset":
+            chatbot.reset()
+            print("\n[RESET] Conversation history cleared.")
+            continue
+
+        if not question:
+            continue
 
         try:
             answer = chatbot.ask(question)
